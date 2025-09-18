@@ -55,11 +55,3 @@ This project is a visually engaging, modern webpage featuring:
 
 ---
 
-## Usage
-
-1. **Include the CSS**
-
-Add the provided CSS (`style.css`) in your HTML `<head>` section:
-
-```html
-<link rel="stylesheet" href="style.css" />
